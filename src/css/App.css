@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding: 0;
+    outline:none;
+    border:none;
+    box-sizing: border-box;
+    color:white;
+}
+.container{
+    width:100%;
+    min-height: 100vh;
+    background-color:black ;
+    position:relative;
+}

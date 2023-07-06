@@ -1,0 +1,16 @@
+.customer-head{
+    text-align: center;
+    padding: 30px;
+}
+.customer-card{
+    border: 1px solid;
+    border-radius: 5px;
+    width:80%;
+    height: 50px;
+    margin:20px auto;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    padding: 20px;
+    cursor: pointer;
+}

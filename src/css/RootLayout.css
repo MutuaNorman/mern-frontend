@@ -1,0 +1,30 @@
+.topnav{
+    width:100%;
+    height:45px;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 30px;
+    background-color:#0C134F;
+}
+.name h2{
+    font-size: 28px;
+    letter-spacing: 2px;
+}
+.name h2 span{
+    color:#F45050;
+}
+.links{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    gap:20px;
+}
+.links a{
+    text-decoration: none;
+    font-size: 20px;
+    transition: 150ms ease-in-out;
+}
+.links a:hover{
+    color:#F45050;
+}
